@@ -6,6 +6,9 @@
 
 SwiftRide is a comprehensive full-stack web application designed to streamline the vehicle rental process. It provides a seamless experience for users to browse vehicles, make bookings, and manage payments, while offering administrators powerful tools to oversee the entire operation.
 
+<img width="1920" height="1440" alt="763shots_so" src="https://github.com/user-attachments/assets/386a0d7c-33b1-453a-9fc1-4d5f4ba6da8b" />
+
+
 ---
 
 ## 📋 Table of Contents
